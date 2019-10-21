@@ -1,0 +1,22 @@
+{
+  "name": "obquake",
+  "version": "1.0.0",
+  "description": "ORM for Type/-JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkusVo/OBquake.git"
+  },
+  "keywords": [
+    "ORM"
+  ],
+  "author": "Markus Vogl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkusVo/OBquake/issues"
+  },
+  "homepage": "https://github.com/MarkusVo/OBquake#readme"
+}
