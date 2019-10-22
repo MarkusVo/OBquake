@@ -4,7 +4,7 @@
   "description": "ORM for Type/-JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/MarkusVo/OBquake/issues"
   },
-  "homepage": "https://github.com/MarkusVo/OBquake#readme"
+  "homepage": "https://github.com/MarkusVo/OBquake#readme",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.4"
+  }
 }
